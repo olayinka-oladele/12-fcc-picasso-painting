@@ -1,6 +1,6 @@
-# Project Name
+# FCC PICASSO PAINTING
 
-> One paragraph statement about the project.
+> A Picasso Painting webpage built using some CSS intermidiat techniques such as SVG icons and CSS positioning.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,9 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- CSS Properties
+  `background-color`, `border-left`, `border-bottom`,
+  `position`, `border-radius`, `z-index`etc.
 
 ## Live Demo
 
@@ -21,7 +21,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:olayinka-oladele/12-fcc-picasso-painting.git
 
 ```
 
@@ -64,15 +64,14 @@ yarn hint
 ## Style Guides
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
-- [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+- [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index. html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/olayinka-oladele)
+- Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
 
@@ -86,9 +85,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- freecodecamp: [@fcc-picasso-painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-89)
 
 ## 📝 License
 
