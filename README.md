@@ -12,9 +12,15 @@ Additional description of the project and its features.
   `background-color`, `border-left`, `border-bottom`,
   `position`, `border-radius`, `z-index`etc.
 
+  - Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+
+- GitHub Action
+
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://oladele-12-fcc-picasso-painting.netlify.app/)
 
 ### Development (Running locally)
 
@@ -85,7 +91,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- freecodecamp: [@fcc-picasso-painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-89)
+- [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-89)
 
 ## 📝 License
 
